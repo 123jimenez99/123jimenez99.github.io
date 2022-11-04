@@ -1,0 +1,51 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Asier&#39;s Website</title>
+        <link>https://123jimenez99.github.io/posts/</link>
+        <description>Recent content in Posts on Asier&#39;s Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-es</language>
+        <lastBuildDate>Tue, 02 Aug 2022 12:10:01 +0200</lastBuildDate>
+        <atom:link href="https://123jimenez99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My recommended list of tech content creators</title>
+            <link>https://123jimenez99.github.io/posts/yt_recomended/</link>
+            <pubDate>Tue, 02 Aug 2022 12:10:01 +0200</pubDate>
+            
+            <guid>https://123jimenez99.github.io/posts/yt_recomended/</guid>
+            <description>These days popular content on YouTube is garbage, and I mean it. Don&amp;rsquo;t you agree? Maybe you haven’t seen the main YouTube page in a while without cookies. Just open a youtube.com tab in an incognito window and you will see the abomination I’m referring to. It’s just full of hyper-saturated thumbnails with people showing their mouths fully open just for the sake of more views. I know, terrible stuff.</description>
+            <content type="html"><![CDATA[<p>These days popular content on YouTube is garbage, and I mean it.
+Don&rsquo;t you agree? Maybe you haven’t seen the main YouTube page in a while without cookies.
+Just open a youtube.com tab in an incognito window and you will see the abomination I’m referring to.
+It’s just full of hyper-saturated thumbnails with people showing their mouths fully open just for the
+sake of more views. I know, terrible stuff.</p>
+<p>Don’t worry, over the years I’ve been making a small list of content creators that really are worth giving them a watch, most of them are related to technology and are definitely not involved on shilling crap like the rest of tech content creators do.</p>
+<h2>Jeff Geerling</h2>
+<p>He likes Raspberry Pis quite a bit, and hence he does many very interesting projects with them. The coolest one in my opinion is when he made a portable cluster of Pis and hosted his webpage on a rural area using nothing more than a few solar panels and an LTE SIM card.
+Here’s his channel: <a href="https://www.youtube.com/c/JeffGeerling">https://www.youtube.com/c/JeffGeerling</a></p>
+ <h2>NCommander</h2>
+<p>If you are into weird and retro computing this is the right place! What about hosting a website using Hurd? Yeah, that Hurd, GNU/Hurd. Or what about running DOOM on AIX? Sound cool huh? Take a look and enjoy! Don&rsquo;t forget that lately he started raising money for charity while doing this kind of crazy things, huge respect.
+Here’s his channel: <a href="https://www.youtube.com/c/NCommander">https://www.youtube.com/c/NCommander</a></p>
+ <h2>Bismuth</h2>
+<p>Bismuth is a YouTube channel that explains the mechanics of video games when are pushed to the absolute limit. This conditions occours on scenarios such as SM64 or SMB3 any% TAS speedruns. If you can keep with his detailed explanations &ldquo;trust me, sometimes the situation can be challenging to explain&rdquo; you&rsquo;ll learn quite a bit about computing in general. It&rsquo;s all about FP accuracy (in SM64) baby!
+Here’s his channel: <a href="https://www.youtube.com/c/Bismuth9">https://www.youtube.com/c/Bismuth9</a></p>
+ <h2>Kaze Emanuar</h2>
+<p>Are you a big fan of code optimization? Well, Kaze Emanuar took the challenge of optimizing every single aspect of SM64&rsquo;s codebase to a point where it runs several times faster than the original code. Pretty damn impressive, huge respect!
+Here’s his channel: <a href="https://www.youtube.com/c/KazeEmanuar">https://www.youtube.com/c/KazeEmanuar</a></p>
+ <h2>LiveOverflow</h2>
+<p>If you really like to learn what hacking is really all about, this is the perfect channel. It really teaches you what it takes to have the skill, discipline and mindset that is necessary to achieve this kind of goals and knowledge in the real world. (Nowadays maybe not all the videos are about hardcore hacking, but if that&rsquo;s what you&rsquo;re looking for, you can find it in some older videos of him).
+Here’s his channel: <a href="https://www.youtube.com/c/LiveOverflow">https://www.youtube.com/c/LiveOverflow</a></p>
+ <h2>RetroBytes</h2>
+<p>You miss the old times, don&rsquo;t you. Even if you&rsquo;re not old enough to had lived through that times &ldquo;like me lol&rdquo; you can learn how that time-frame of computing was. The content is superb in terms of quality and narrative.
+Here’s his channel: <a href="https://www.youtube.com/c/RetroBytesUK">https://www.youtube.com/c/RetroBytesUK</a></p>
+ <h2>More Bits inside by René Rebe</h2>
+<p>Poor guy, this man deserves the moon at least. He contributes code and makes patches almost every day while he maintains his own distro T2 (witch BTW have support for many architectures).
+Here’s his channel: <a href="https://www.youtube.com/c/MoreReneRebe">https://www.youtube.com/c/MoreReneRebe</a>
+<br><br><br></p>
+<p>Well, that’s all for now, I hope you’ve found this post useful and I hope your taste for finding content has changed for the better at least a bit.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

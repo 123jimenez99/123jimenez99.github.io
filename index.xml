@@ -5,14 +5,15 @@
     <link>https://123jimenez99.github.io/</link>
     <description>Recent content on Asier&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="https://123jimenez99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language>
+    <lastBuildDate>Tue, 02 Aug 2022 12:10:01 +0200</lastBuildDate><atom:link href="https://123jimenez99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tech-content recomendation</title>
-      <link>https://123jimenez99.github.io/recomendations/</link>
+      <title>My recommended list of tech content creators</title>
+      <link>https://123jimenez99.github.io/posts/yt_recomended/</link>
       <pubDate>Tue, 02 Aug 2022 12:10:01 +0200</pubDate>
       
-      <guid>https://123jimenez99.github.io/recomendations/</guid>
-      <description>These days popular content on YouTube is garbage, and I mean it. You don&amp;rsquo;t agree with me? Maybe you haven&amp;rsquo;t seen the main YouTube page in a while without cookies. Just open a youtube.com tab in an incognito window and you will see the abomination I&amp;rsquo;m referring to. It&amp;rsquo;s just full of hyper-saturated thumbnails with people showing their mouths fully open just for the sake of more views. I know, terrible stuff.</description>
+      <guid>https://123jimenez99.github.io/posts/yt_recomended/</guid>
+      <description>These days popular content on YouTube is garbage, and I mean it. Don&amp;rsquo;t you agree? Maybe you haven’t seen the main YouTube page in a while without cookies. Just open a youtube.com tab in an incognito window and you will see the abomination I’m referring to. It’s just full of hyper-saturated thumbnails with people showing their mouths fully open just for the sake of more views. I know, terrible stuff.</description>
     </item>
     
     <item>
@@ -21,8 +22,9 @@
       <pubDate>Sun, 03 Jul 2022 20:10:53 +0200</pubDate>
       
       <guid>https://123jimenez99.github.io/about/</guid>
-      <description>Hi and welcome to my humble website! My name is Asier Jiménez. I&amp;rsquo;m a 20-year-old IT student amazed by topics such as Open Source, Linux, Homebrew, Hardware Offloading, GP-GPU, exotic CPU architectures, and more!
-I’m currently studying an Advanced Systems Administration degree while I study for the Cambridge B2 English certificate. I also plan on getting the AWS Certified SysOps Administrator certificate in addition to the LPIC-2 in the future.</description>
+      <description>Greetings! My name is Asier Jiménez. I&amp;rsquo;m a 20-year-old IT student amazed by topics such as Open Source, Linux, Homebrew, Hardware Offloading, GP-GPU, exotic CPU architectures, and more!
+I’m currently studying an Advanced Systems Administration degree, although I plan to get the AWS Certified SysOps Administrator degree in addition to the Linux Foundation Certified System Administrator degree and the B2 English certification in the future.
+Not only that, but I like to spend my time learning whenever I have the opportunity.</description>
     </item>
     
   </channel>
