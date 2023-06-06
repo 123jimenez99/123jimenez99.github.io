@@ -8,7 +8,7 @@
     <language>es-es</language>
     <lastBuildDate>Tue, 02 Aug 2022 12:10:01 +0200</lastBuildDate><atom:link href="https://123jimenez99.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My recommended list of tech content creators</title>
+      <title>A curated list of tech content creators</title>
       <link>https://123jimenez99.github.io/posts/yt_recomended/</link>
       <pubDate>Tue, 02 Aug 2022 12:10:01 +0200</pubDate>
       
@@ -23,9 +23,8 @@ Jeff Geerling He likes Raspberry Pis quite a bit, and hence he does many very in
       <pubDate>Sun, 03 Jul 2022 20:10:53 +0200</pubDate>
       
       <guid>https://123jimenez99.github.io/about/</guid>
-      <description>Greetings! My name is Asier Jiménez. I&amp;rsquo;m a 20-year-old IT student amazed by topics such as Open Source, Linux, Homebrew, Hardware Offloading, GP-GPU, exotic CPU architectures, and more!
-I’m currently studying an Advanced Systems Administration degree, although I plan to get the AWS Certified SysOps Administrator degree in addition to the Linux Foundation Certified System Administrator degree and the B2 English certification in the future.
-Not only that, but I like to spend my time learning whenever I have the opportunity.</description>
+      <description>Hello there👋🏼, my name is Asier Jiménez. I am a sysadmin student interested in Open Source, Linux, homebrew, hardware offloading, and GPGPU computing.
+I like to spend my spare time learning modern and widely used technologies such as Git, Vagrant, Docker, and Ansible, mainly because of how powerful these tools are. I look forward to continuing to prepare for various certifications such as AWS SysOps Certification, Linux Foundation Certified System Administrator, and C1 English Certification.</description>
     </item>
     
   </channel>
