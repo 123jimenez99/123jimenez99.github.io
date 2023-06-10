@@ -1,47 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Asier&#39;s Website</title>
-        <link>https://123jimenez99.github.io/posts/</link>
-        <description>Recent content in Posts on Asier&#39;s Website</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es-es</language>
-        <lastBuildDate>Tue, 02 Aug 2022 12:10:01 +0200</lastBuildDate>
-        <atom:link href="https://123jimenez99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>A curated list of tech content creators</title>
-            <link>https://123jimenez99.github.io/posts/yt_recomended/</link>
-            <pubDate>Tue, 02 Aug 2022 12:10:01 +0200</pubDate>
-            
-            <guid>https://123jimenez99.github.io/posts/yt_recomended/</guid>
-            <description>Over the years I’ve been making a small list of content creators that really are worth giving them a watch, most of them are related to technology and are definitely not involved on shilling.
-Jeff Geerling He likes Raspberry Pis quite a bit, and hence he does many very interesting projects with them. The coolest one in my opinion is when he made a portable cluster of Pis and hosted his webpage on a rural area using nothing more than a few solar panels and an LTE SIM card.</description>
-            <content type="html"><![CDATA[<p>Over the years I’ve been making a small list of content creators that really are worth giving them a watch, most of them are related to technology and are definitely not involved on shilling.</p>
-<h2>Jeff Geerling</h2>
-<p>He likes Raspberry Pis quite a bit, and hence he does many very interesting projects with them. The coolest one in my opinion is when he made a portable cluster of Pis and hosted his webpage on a rural area using nothing more than a few solar panels and an LTE SIM card.
-Here’s his channel: <a href="https://www.youtube.com/c/JeffGeerling">https://www.youtube.com/c/JeffGeerling</a></p>
- <h2>NCommander</h2>
-<p>If you are into weird and retro computing this is the right place! What about hosting a website using Hurd? Yeah, that Hurd, GNU/Hurd. Or what about running DOOM on AIX? Sound cool huh? Take a look and enjoy! Don&rsquo;t forget that lately he started raising money for charity while doing this kind of crazy things, huge respect.
-Here’s his channel: <a href="https://www.youtube.com/c/NCommander">https://www.youtube.com/c/NCommander</a></p>
- <h2>Bismuth</h2>
-<p>Bismuth is a YouTube channel that explains the mechanics of video games when are pushed to the absolute limit. This conditions occours on scenarios such as SM64 or SMB3 any% TAS speedruns. If you can keep with his detailed explanations &ldquo;trust me, sometimes the situation can be challenging to explain&rdquo; you&rsquo;ll learn quite a bit about computing in general. It&rsquo;s all about FP accuracy (in SM64) baby!
-Here’s his channel: <a href="https://www.youtube.com/c/Bismuth9">https://www.youtube.com/c/Bismuth9</a></p>
- <h2>Kaze Emanuar</h2>
-<p>Are you a big fan of code optimization? Well, Kaze Emanuar took the challenge of optimizing every single aspect of SM64&rsquo;s codebase to a point where it runs several times faster than the original code. Pretty damn impressive, huge respect!
-Here’s his channel: <a href="https://www.youtube.com/c/KazeEmanuar">https://www.youtube.com/c/KazeEmanuar</a></p>
- <h2>LiveOverflow</h2>
-<p>If you really like to learn what hacking is really all about, this is the perfect channel. It really teaches you what it takes to have the skill, discipline and mindset that is necessary to achieve this kind of goals and knowledge in the real world. (Nowadays maybe not all the videos are about hardcore hacking, but if that&rsquo;s what you&rsquo;re looking for, you can find it in some older videos of him).
-Here’s his channel: <a href="https://www.youtube.com/c/LiveOverflow">https://www.youtube.com/c/LiveOverflow</a></p>
- <h2>RetroBytes</h2>
-<p>You miss the old times, don&rsquo;t you. Even if you&rsquo;re not old enough to had lived through that times &ldquo;like me lol&rdquo; you can learn how that time-frame of computing was. The content is superb in terms of quality and narrative.
-Here’s his channel: <a href="https://www.youtube.com/c/RetroBytesUK">https://www.youtube.com/c/RetroBytesUK</a></p>
- <h2>More Bits inside by René Rebe</h2>
-<p>Poor guy, this man deserves the moon at least. He contributes code and makes patches almost every day while he maintains his own distro T2 (witch BTW have support for many architectures).
-Here’s his channel: <a href="https://www.youtube.com/c/MoreReneRebe/streams">https://www.youtube.com/c/MoreReneRebe/streams</a>
-<br><br><br></p>
-<p>Well, that’s all for now, I hope you’ve found this post useful and I hope your taste for finding content has changed for the better at least a bit.</p>
-]]></content>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Posts on Asier&#39;s Webpage</title>
+    <link>https://123jimenez99.github.io/posts/</link>
+    <description>Recent content in Posts on Asier&#39;s Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jun 2023 22:45:34 +0200</lastBuildDate><atom:link href="https://123jimenez99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How could modern compilers unleash the potential of CELL?</title>
+      <link>https://123jimenez99.github.io/posts/what_if_cell_modern_compiler/</link>
+      <pubDate>Tue, 06 Jun 2023 22:45:34 +0200</pubDate>
+      
+      <guid>https://123jimenez99.github.io/posts/what_if_cell_modern_compiler/</guid>
+      <description>Have you ever wondered what the fate of the Cell processor would have been like if the software designed for it could have been coded making use of the compilers we have today? In this article, I will explain the complications and limitations of the Cell processor, as well as how a modern compiler can drastically help optimize the code for it.
+Before we proceed, let&amp;rsquo;s quickly take a look at the design of the Cell processor: The Cell processor consists of a scalar dual-threaded PowerPC core (PPE) and eight vector coprocessors (SPE) that communicate via an internal bus (EIB).</description>
+    </item>
+    
+    <item>
+      <title>A curated list of unbiased tech content creators</title>
+      <link>https://123jimenez99.github.io/posts/yt_recomended/</link>
+      <pubDate>Thu, 02 Mar 2023 12:10:01 +0200</pubDate>
+      
+      <guid>https://123jimenez99.github.io/posts/yt_recomended/</guid>
+      <description>Over the years, I’ve gathered a small list of exceptional content creators who are truly worth watching. Most of these focus on technology and anyone is involved in shilling or promoting any products. Whether you’re interested in Raspberry Pis, retro computing, code optimization, hacking, or exploring the mechanics of video games pushed to their limits, these channels offer unique and engaging content that will surely captivate your interest.
+More Bits inside by René Rebe René Rebe, the creator of the T2 distro with support for multiple architectures, deserves recognition for his consistent contributions to the community.</description>
+    </item>
+    
+  </channel>
 </rss>
