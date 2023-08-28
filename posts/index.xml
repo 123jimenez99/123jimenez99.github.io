@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jun 2023 16:20:03 +0200</lastBuildDate><atom:link href="https://123jimenez99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Aug 2023 22:02:51 +0200</lastBuildDate><atom:link href="https://123jimenez99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy your archive warriors the proper way, with Kubernetes</title>
+      <link>https://123jimenez99.github.io/posts/deploy-your-archive-team-warriors-properly-with-kubernetes.html</link>
+      <pubDate>Sat, 26 Aug 2023 22:02:51 +0200</pubDate>
+      
+      <guid>https://123jimenez99.github.io/posts/deploy-your-archive-team-warriors-properly-with-kubernetes.html</guid>
+      <description>Last time I used a script to create multiple containers simultaneously. Although it works, let&amp;rsquo;s say it&amp;rsquo;s not the best option.
+Kubernetes is the optimal choice for tasks like these due to its ability to orchestrate multiple containers, scale them, balance the load among nodes when required, and ensure container availability.
+For this reason, I have decided to perform a small deployment of 6 pods that perform the same function as the containers in the previous attempt.</description>
+    </item>
+    
     <item>
       <title>Multiply your Archive Team Warriors with Docker and some little scripting</title>
       <link>https://123jimenez99.github.io/posts/multiply_archive_team_warrior_instances_with_docker.html</link>
